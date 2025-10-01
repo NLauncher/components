@@ -1,11 +1,19 @@
 [
   {
+    "name": "0.5.0-1",
+    "url": "https://archive.org/download/mcpe-alpha-x86/PE-a0.5.0-1-x86.apk"
+  },
+  {
+    "name": "0.5.0-2",
+    "url": "https://archive.org/download/mcpe-alpha-x86/PE-a0.5.0-2-x86.apk"
+  },
+  {
     "name": "0.6.0",
     "url": "https://archive.org/download/MCPEAlpha/PE-a0.6.0-x86.apk"
   },
   {
     "name": "0.6.1",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.6.1-x86.apk"
+    "url": "https://archive.org/download/mcpe-alpha-x86/PE-a0.6.1-x86.apk"
   },
   {
     "name": "0.7.0",
@@ -116,6 +124,26 @@
     "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.5-2-x86.apk"
   },
   {
+    "name": "0.10.0",
+    "url": "https://archive.org/download/mcpe-alpha-x86/PE-a0.10.0-x86.apk"
+  },
+  {
+    "name": "0.10.1",
+    "url": "https://archive.org/download/mcpe-alpha-x86/PE-a0.10.1-x86.apk"
+  },
+  {
+    "name": "0.10.2",
+    "url": "https://archive.org/download/mcpe-alpha-x86/PE-a0.10.2-x86.apk"
+  },
+  {
+    "name": "0.10.3",
+    "url": "https://archive.org/download/mcpe-alpha-x86/PE-a0.10.3-x86.apk"
+  },
+  {
+    "name": "0.10.4",
+    "url": "https://archive.org/download/mcpe-alpha-x86/PE-a0.10.4-x86.apk"
+  },
+  {
     "name": "0.10.5",
     "url": "https://archive.org/download/MCPEAlpha/PE-a0.10.5-x86.apk"
   },
@@ -127,4 +155,5 @@
     "name": "0.11.1-2",
     "url": "https://archive.org/download/MCPEAlpha/PE-a0.11.1-2-x86.apk"
   }
+
 ]
