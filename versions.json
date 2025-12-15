@@ -52,54 +52,6 @@
     "url": "https://archive.org/download/MCPEAlpha/PE-a0.8.1-x86.apk"
   },
   {
-    "name": "0.9.0 build1",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build1-x86.apk"
-  },
-  {
-    "name": "0.9.0 build2",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build2-x86.apk"
-  },
-  {
-    "name": "0.9.0 build3",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build3-x86.apk"
-  },
-  {
-    "name": "0.9.0 build4",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build4-x86.apk"
-  },
-  {
-    "name": "0.9.0 build5",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build5-x86.apk"
-  },
-  {
-    "name": "0.9.0 build6",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build6-x86.apk"
-  },
-  {
-    "name": "0.9.0 build7",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build7-x86.apk"
-  },
-  {
-    "name": "0.9.0 build8",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build8-x86.apk"
-  },
-  {
-    "name": "0.9.0 build9",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build9-x86.apk"
-  },
-  {
-    "name": "0.9.0 build10",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build10-x86.apk"
-  },
-  {
-    "name": "0.9.0 build11",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build11-x86.apk"
-  },
-  {
-    "name": "0.9.0 build12",
-    "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.0-build12-x86.apk"
-  },
-  {
     "name": "0.9.1",
     "url": "https://archive.org/download/MCPEAlpha/PE-a0.9.1-x86.apk"
   },
@@ -157,3 +109,4 @@
   }
 
 ]
+
